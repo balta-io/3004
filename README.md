@@ -1,3 +1,5 @@
+![SHARE](https://github.com/balta-io/3004/assets/965305/9df2e993-6185-4da3-9b44-13688626d25a)
+
 ## Introdução
 Neste curso, vamos explorar os elementos fundamentais do HTML e CSS, essenciais para construir a base de qualquer aplicação web.
 
